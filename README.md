@@ -19,7 +19,11 @@ Datasets Link
 
 
 Results & Conclusions -
+
 S. No.	Model	        Accuracy
+
 1	    Baseline Model	73.20%
+
 2	    Final Model	    77.84%
+
 3     Gray Wolf Opt.  91.2%
