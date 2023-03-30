@@ -1,4 +1,4 @@
-# Monitoring-Driver-Drowsiness-from-physiological-and-visual-aspect-using-
+# Monitoring-Driver-Drowsiness-from-physiological-and-visual-aspect-using-  CNN and OpenCV
 
 Abstract
 The primary objective is to develop a system that can reliably detect drowsiness in a driver based on eyelid movement and yawning and then provide the driver with accurate audio notifications in real time. 
